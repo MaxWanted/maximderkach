@@ -2,13 +2,19 @@
 ### DevOps/SRE
 
 ***
-**Projects**
-- [Online-store](https://github.com/MaxWanted/momo-store) (Gitlab CI/CD, Docker, Golang, HTML/JavaScript)
-- [Infrastructure](https://github.com/MaxWanted/momo-store-infra) (Yandex Cloud, Gitlab CI/CD, Docker, K8s, Helm, Terraform, Prometheus, Grafana, Alertmanager)
-- [Image Converter - environment and deployment to Swarm](https://github.com/MaxWanted/Ansible-deploy-to-Swarm) (Ansible, Docker Swarm, Vagrant)
-- [App. Lineman](https://github.com/MaxWanted/Lineman) (Python, QT, SQLite)
-- [Telegram bot](https://github.com/MaxWanted/TelegramBot) (Python, Heroku)
-- [Get secrets from Vault](https://github.com/MaxWanted/get-secrets-by-hvac) (Python)
+**My Projects** 
+
+🎓 - Study projects 
+💼 - Work projects 
+🛠️ - Pet projects 
+
+
+- 🎓 [Online-store](https://github.com/MaxWanted/momo-store) (Gitlab CI/CD, Docker, Golang, HTML/JavaScript)
+- 🎓[Infrastructure](https://github.com/MaxWanted/momo-store-infra) (Yandex Cloud, Gitlab CI/CD, Docker, K8s, Helm, Terraform, Prometheus, Grafana, Alertmanager)
+- 🎓[Image Converter - environment and deployment to Swarm](https://github.com/MaxWanted/Ansible-deploy-to-Swarm) (Ansible, Docker Swarm, Vagrant)
+- 💼 [App. Lineman](https://github.com/MaxWanted/Lineman) (Python, QT, SQLite)
+- 💼 [Get secrets from Vault](https://github.com/MaxWanted/get-secrets-by-hvac) (Python)
+- 🛠️ [Telegram bot](https://github.com/MaxWanted/TelegramBot) (Python, Heroku)
 
 
 **Contacts**
