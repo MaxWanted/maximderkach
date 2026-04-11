@@ -19,7 +19,7 @@
 
 **Contacts**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MaxWanted) [![Mail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:m.a.derkach@gmail.com) [![LinkedIn](https://img.shields.io/static/v1?style=flat&logo&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/maksim-derkach)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/m_derkach) [![Mail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:m.a.derkach@gmail.com) [![LinkedIn](https://img.shields.io/static/v1?style=flat&logo&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/maxim-derkach)
 
 **Stack**
 
