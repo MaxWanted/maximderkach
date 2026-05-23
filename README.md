@@ -41,5 +41,5 @@ DevOps-инженер с 3+ годами коммерческого опыта �
 ### Контакты
 
 - Telegram: [@m_derkach](https://t.me/m_derkach)
-- Email: [m.a.derkach@gmail.com](mailto:m.a.derkach@gmail.com)
+- Email: [i@maximderkach.ru](mailto:i@maximderkach.ru)
 - LinkedIn: [maxim-derkach](https://linkedin.com/in/maxim-derkach)
